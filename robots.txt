@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Budkhuu976.github.io/handbook-1zm3qv/sitemap.xml
